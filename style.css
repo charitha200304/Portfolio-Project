@@ -19,7 +19,7 @@
 }
 
 .full-home{
-    background-image: url('/Portfolio-Project/images/background2.jpg'); 
+    /* background-image: url('/Portfolio-Project/images/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-56228.avif');  */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -103,6 +103,7 @@ section{
 .home-img img{
     width: 35vw;
     animation: floatImage 4s ease-in-out infinite;
+    margin-left: 20%;
 }
 
 @keyframes floatImage{
@@ -189,6 +190,7 @@ span{
 
 .about-img img{
     width: 35vw;
+    margin-left: -10%;
 }
 
 .heading{
@@ -587,7 +589,7 @@ margin-bottom: 2.8rem;
     animation-delay: calc(var(--i)*0.05s);
 }
 .skills .container{
-    background: rgba(155, 18, 18, 0.24);
+    background: #00d0ff;
     color: var(--text-color);
     border-radius: 1rem;
     padding: 2rem;
@@ -633,7 +635,7 @@ margin-bottom: 2.8rem;
     font-size: 2rem;
     font-weight: bold;
     margin-left: 0.5rem;
-    color: rgb(233, 162, 30);
+    color: white;
 }
 
 .contact{
