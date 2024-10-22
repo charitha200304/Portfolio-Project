@@ -224,6 +224,8 @@ span {
   margin: 5rem 0;
   gap: 3rem;
   row-gap: 5rem;
+ margin-left: 4%;
+ margin-top: 4%;
 }
 
 .project-card {
@@ -683,8 +685,8 @@ span {
   height: 60px;
   background: repeating-conic-gradient(
     from 27.5deg,
-    #db0101 0%,
-    #db0101 10%,
+    #00d1ff 0%,
+    #00d1ff 10%,
     transparent 10%,
     transparent 50%
   );
@@ -699,8 +701,8 @@ span {
   inset: 0;
   background: repeating-conic-gradient(
     from 117.5deg,
-    #db0101 0%,
-    #db0101 10%,
+    #00d1ff 0%,
+    #00d1ff 10%,
     transparent 10%,
     transparent 50%
   );
@@ -716,7 +718,7 @@ span {
 .container .contactInfo .box .icon b {
   position: absolute;
   inset: 8px;
-  background: #db0101;
+  background: #00d1ff;
   z-index: 2;
 }
 
@@ -785,8 +787,8 @@ span {
   width: 40%;
   background: repeating-conic-gradient(
     from var(--a),
-    #db0101 0%,
-    #db0101 10%,
+    #00d1ff 0%,
+    #00d1ff 10%,
     transparent 10%,
     transparent 50%
   );
@@ -800,8 +802,8 @@ span {
   inset: 0;
   background: repeating-conic-gradient(
     from var(--a),
-    #db0101 0%,
-    #db0101 10%,
+    #00d1ff 0%,
+    #00d1ff 10%,
     transparent 10%,
     transparent 50%
   );
